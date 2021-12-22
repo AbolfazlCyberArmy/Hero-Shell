@@ -7,8 +7,8 @@
 
 ### Use
 For use this shell 
-Upload this script to server and add  `?0111=051` at end of the URL
-Example: `https://example.com/mH5.php?0111=051`
+Upload this script to server and add  `?myhero=ghasem` at end of the URL
+Example: `https://example.com/mH5.php?myhero=ghasem`
 
 
 ### Encrypted Script
